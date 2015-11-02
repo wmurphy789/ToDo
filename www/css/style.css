@@ -1,0 +1,12 @@
+/* Empty. Add your own CSS if you like */
+.task-done {
+	text-decoration: line-through !important;
+}
+
+.clear-hidden {
+	display: none;
+}
+
+.clear-show {
+	display: block;
+}
